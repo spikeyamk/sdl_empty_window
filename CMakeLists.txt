@@ -6,7 +6,7 @@ set(CMAKE_BUILD_TYPE Debug)
 
 add_executable(${PROJECT_NAME} main.cpp
 	lib/upper.cpp
-    lib/SDL3/SDL_custom.cpp
+	lib/SDL3/SDL_custom.cpp
 )
 
 if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")

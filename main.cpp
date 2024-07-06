@@ -1,5 +1,3 @@
-#include <iostream>
-
 #include <trielo/trielo.hpp>
 #include <SDL3/SDL.h>
 #include <SDL3/SDL_custom.h>

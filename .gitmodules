@@ -1,0 +1,6 @@
+[submodule "lib/extern/SDL3"]
+	path = lib/extern/SDL3
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "lib/extern/trielo"]
+	path = lib/extern/trielo
+	url = https://www.github.com/spikeyamk/trielo
